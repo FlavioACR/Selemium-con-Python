@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 class HolaMundo(unittest.TestCase):
     '''Esta clase se divide en 3 partes;
+    
     Para correr las preubas y el codigo en una sola pestaña se agrego
     el class method al nombre de la función se agregal el Class 
     y se cambiaron los self, por cls.
