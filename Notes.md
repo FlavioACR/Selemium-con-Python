@@ -85,6 +85,17 @@ Libreria: Unittest (Pytest)
 * Test Report: Resumen de resultados.
 
 
+# 7
+Para movernos dentro del documento y cuerpo del HMTL, utilizaremos los selectores:
+## Selectores:
+ID
+Nombre del atributo
+Nombre de la clase
+Nombre de la etiqueta
+Xpath 
+Selector de CSS
+Texto de link
+Texto parcial del link
 
 # 8:
 Preparar assertions y test suites:
@@ -95,3 +106,5 @@ Ejemplo: assertEqual(price.text,”300”)
 Test suites:
 
 Colección de test unificados en una sola prueba, permitiendo tener resultados grupales e individuales.(Similar a un árbol o diagrama)
+
+
