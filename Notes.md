@@ -107,4 +107,7 @@ Test suites:
 
 Colección de test unificados en una sola prueba, permitiendo tener resultados grupales e individuales.(Similar a un árbol o diagrama)
 
+Notas para entender las clases WebDriver y WebElement:
+https://platzi.com/clases/1927-intro-selenium/29390-entender-las-clases-webdriver-y-webelement/
+
 
