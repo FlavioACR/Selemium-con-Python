@@ -1,7 +1,7 @@
 # MANEJAR ALERT & POP-UP:
 
 # Librerías:
-from lib2to3.pgen2 import driver
+#from lib2to3.pgen2 import driver
 import unittest
 from pyunitreport import HTMLTestRunner
 from selenium import webdriver
@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import Select
 
 # CLASE DE PRUEBA:
 class CompareProducts(unittest.TestCase):
-    '''Clase que automatiza la prueba  de comparar preción de una busqueda determinada'''
+    '''Clase que automatiza la prueba  de comparar preción de una busqueda determinada y maneja los alerts'''
     
     def setUp(self):
         # Preparacion del Driver:
