@@ -28,7 +28,7 @@ class CompareProducts(unittest.TestCase):
         driver.get('http://demo-store.seleniumacademy.com/')
     
     def test_compare_product_removal_alert(self):
-        '''Definición de la función pendiente: XX XXX XX'''
+        '''Automatización de busqueda de articulo, comparación de precios y manejor de un ALERT'''
         driver = self.driver
         
         # Identificaremos la barra de busqueda y como buena practica eliminamos el texto
