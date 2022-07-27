@@ -1,6 +1,6 @@
 # Selemium-con-Python
 
-#Conocimientos previos
+# Conocimientos previos
 * Programación orientada a objetos con Python.
 * Conocimiento básico de HTML y CSS.
 * Software para este curso
